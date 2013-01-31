@@ -97,6 +97,35 @@
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=32F5B2BD4CFE0E42ADE73B7FB68EBDD0/Entry/=A4284AC46CC5F44FB8DB9B563AE61B01/@KeyIndexDefined">False</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=5CF342079CE151478A11D345C1816DD0/Entry/=4C84A7D189E28A43AA2631BBE4694112/@KeyIndexDefined">False</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=5CF342079CE151478A11D345C1816DD0/Entry/=A4284AC46CC5F44FB8DB9B563AE61B01/EntryName/@EntryValue">using</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=65E11E6930E9724597D2E3AF5ADC83FB/EntryName/@EntryValue">Test</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/QuickList/=F0CA621CDF5AB24282D8CDC11C520997/Entry/=65E11E6930E9724597D2E3AF5ADC83FB/Position/@EntryValue">4</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Applicability/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/CustomProperties/=Extension/@EntryIndexedValue">cs</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/CustomProperties/=FileName/@EntryIndexedValue">Test</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/CustomProperties/=ValidateFileName/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Description/@EntryValue">Test</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Field/=Classname/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Field/=Classname/Expression/@EntryValue">getFileNameWithoutExtension()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Field/=Classname/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Field/=Classname/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Field/=Namespace/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Field/=Namespace/Expression/@EntryValue">fileDefaultNamespace()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Field/=Namespace/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Field/=Namespace/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Scope/=E8F0594528C33E45BBFEC6CFE851095D/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Scope/=E8F0594528C33E45BBFEC6CFE851095D/Type/@EntryValue">InCSharpProjectFile</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=65E11E6930E9724597D2E3AF5ADC83FB/Text/@EntryValue">namespace $Namespace$&#xD;
+{&#xD;
+	using NUnit.Framework;&#xD;
+&#xD;
+	[TestFixture]&#xD;
+	public class $Classname$ : AssertionHelper&#xD;
+	{&#xD;
+	}&#xD;
+}</s:String>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EA2326318C5B6C46A7BE3ADC8A9C8D79/@KeyIndexDefined">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EA2326318C5B6C46A7BE3ADC8A9C8D79/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EA2326318C5B6C46A7BE3ADC8A9C8D79/Description/@EntryValue">Test Case</s:String>

@@ -144,6 +144,22 @@ public void $METHOD$_$SCENARIO$_$EXPECTATION$()&#xD;
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EA2326318C5B6C46A7BE3ADC8A9C8D79/Field/=SCENARIO/Order/@EntryValue">1</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EA2326318C5B6C46A7BE3ADC8A9C8D79/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EA2326318C5B6C46A7BE3ADC8A9C8D79/Scope/=139FF4CE89E7094686FDA7BF5FFBBE92/Type/@EntryValue">Everywhere</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Description/@EntryValue">static ILog on a class</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Field/=TYPE/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Field/=TYPE/Expression/@EntryValue">typeName()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Field/=TYPE/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Field/=TYPE/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/CustomProperties/=minimumLanguageVersion/@EntryIndexedValue">2.0</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Scope/=B68999B9D6B43E47A02B22C12A54C3CC/Type/@EntryValue">InCSharpTypeMember</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Scope/=C6DB0752718DF142B892C520B519ED00/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Scope/=C6DB0752718DF142B892C520B519ED00/Type/@EntryValue">InResxFile</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Shortcut/@EntryValue">log</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=EFA502E96E8AEB47A6514DA5D313E5A8/Text/@EntryValue">private static readonly log4net.ILog log = log4net.LogManager.GetLogger(typeof($TYPE$));</s:String>
 	
 	
 	
